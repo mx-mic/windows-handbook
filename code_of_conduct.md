@@ -1,7 +1,7 @@
 ## Information about submitting commands and tweaks to the repository
 ### Use the Developer Certificate of Origin as a guide
 
-...
+```
 Developer Certificate of Origin
 Version 1.1
 
@@ -36,4 +36,4 @@ By making a contribution to this project, I certify that:
     personal information I submit with it, including my sign-off) is
     maintained indefinitely and may be redistributed consistent with
     this project or the open source license(s) involved.`
-...
+```
