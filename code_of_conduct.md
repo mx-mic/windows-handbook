@@ -1,10 +1,6 @@
 ## Community Rules
 #### Thank you for reading the rules
 _Hopefully you'll stick to them ;)_
-
-### Introduction
-While we do have a copyright laws in place to stop you from modifying and distrubuting PassswordOffline, people are still allowed to make contributions [here](https://github.com/MX-Mic/PasswordOffline/discussions/new?category=ideas) (please make sure you [read the guidelines first!](https://github.com/MX-Mic/PasswordOffline/blob/main/contributing.md)). There is still some rules in place for people that want to contribute and help make this software better though!
-
 _These guidelines were adapted from the_ **Contributor Covenant**_._
 
 ### Our Pledge
